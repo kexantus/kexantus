@@ -1,10 +1,19 @@
-### Hi there 👋
+### Hi, I'm Karen. Thanks for stopping by!
+____________________________________________________
+
+I am an entry level data scientist interested in using data science to superhead innovation around the world. I'm working on pretty interesting things right now.
+
+📫 Reach me at: exantuskaren@gmail.com
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kexantus&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 
 <!--
 **kexantus/kexantus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 'Languages used generator' [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kexantus&langs_count=5&theme=tokyonight)]()
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
