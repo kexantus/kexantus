@@ -1,7 +1,7 @@
 ### Hi, I'm Karen. Thanks for stopping by!
 ____________________________________________________
 
-I am an entry level data scientist interested in using data science to superhead innovation around the world. I'm working on pretty interesting things right now.
+I am a MS Data Science student at Fairfield University interested in using data science to superhead innovation around the world. I'm working on pretty interesting things right now.
 
 📫 Reach me at: exantuskaren@gmail.com
 
