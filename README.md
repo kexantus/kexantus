@@ -1,4 +1,4 @@
-### Hi, I'm Karen. Thanks for stopping by!
+### Hi, I'm Karen.
 ![](https://visitor-badge.laobi.icu/badge?page_id=kexantus.kexantus) [![Github](https://img.shields.io/github/followers/kexantus?label=Follow&style=social)](https://github.com/kexantus)
 
 
