@@ -4,8 +4,9 @@
 
 ____________________________________________________
 
-I am a MS Data Science student at Fairfield University interested in using data science to superhead innovation around the world. 
-I'm working on some pretty interesting things right now.
+I am a student pursing my Masters in Applied Data Science at Fairfield University. I am interested in using statistical techniques to provide insights leading to innovation in the areas of business and health.
+
+I've always loved diving deep into data but now with the formal education, I am able to approach it with more confidence and knowledge to share with others.
 
 ✉️ Get in touch with me via my email or LinkedIn:
 
