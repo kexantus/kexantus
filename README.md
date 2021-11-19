@@ -4,7 +4,7 @@
 
 ____________________________________________________
 
-I am a student pursing my Masters in Applied Data Science at Fairfield University. I am interested in using statistical techniques to provide insights leading to innovation in the areas of business and health.
+I am a student pursing my Masters in Applied Data Science at Fairfield University. I am interested in using statistical techniques to provide insights for innovation in the areas of business and health.
 
 I've always loved diving deep into data but now with the formal education, I am able to approach it with more confidence and knowledge to share with others.
 
